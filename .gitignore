@@ -1,0 +1,13 @@
+./comments-express-service/node_modules
+./event-bus/node_modules
+./moderation-service/node_modules
+./posts-express-service/node_modules
+./query/node_modules
+
+
+./comments-express-service/package-lock.json
+./event-bus/package-lock.json
+./moderation-service/package-lock.json
+./posts-express-service/package-lock.json
+./query/package-lock.json
+
